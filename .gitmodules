@@ -1,0 +1,24 @@
+[submodule "llvm-project"]
+	path = llvm-project
+	url = git@github.com:sifive/riscv-llvm-internal.git
+[submodule "riscv-binutils"]
+	path = riscv-binutils
+	url = git@github.com:sifive/riscv-binutils-gdb-internal.git
+[submodule "riscv-gcc"]
+	path = riscv-gcc
+	url = git@github.com:sifive/riscv-gcc-internal.git
+[submodule "riscv-glibc"]
+	path = riscv-glibc
+	url = git@github.com:sifive/riscv-glibc-private.git
+[submodule "riscv-newlib"]
+	path = riscv-newlib
+	url = git@github.com:sifive/riscv-newlib.git
+[submodule "riscv-gdb"]
+	path = riscv-gdb
+	url = git@github.com:sifive/riscv-binutils-gdb-internal.git
+[submodule "segger_libc"]
+	path = segger_libc
+	url = git@github.com:sifive/segger_libc.git
+[submodule "linux-header"]
+	path = linux-header
+	url = git@github.com:sifive/freedom-headers-linux-private.git
